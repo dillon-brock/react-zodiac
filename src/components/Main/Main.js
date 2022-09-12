@@ -1,3 +1,4 @@
+import './Main.css';
 import { zodiac } from '../../data';
 import ZodiacCard from '../ZodiacCard/ZodiacCard';
 
