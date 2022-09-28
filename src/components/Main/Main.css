@@ -1,0 +1,11 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    align-items: center;
+    justify-content: center;
+    padding: 60px 20px 40px 20px;
+    background-color: rgb(249, 244, 237);
+    height: 100%;
+}
